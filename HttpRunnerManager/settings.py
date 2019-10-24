@@ -191,8 +191,8 @@ CELERYD_CONCURRENCY = 1 if DEBUG else 10 # celery worker的并发数 也是命�
 CELERYD_MAX_TASKS_PER_CHILD = 3
 
 
-EMAIL_SEND_USERNAME = '23546401749@qq.com'  # 定时任务报告发送邮箱，支持163,qq,sina,企业qq邮箱等，注意需要开通smtp服务
-EMAIL_SEND_PASSWORD = '8786268lyg'     # 邮箱密码
+EMAIL_SEND_USERNAME = '@qq.com'  # 定时任务报告发送邮箱，支持163,qq,sina,企业qq邮箱等，注意需要开通smtp服务
+EMAIL_SEND_PASSWORD = ''     # 邮箱密码
 
 
 LOGGING = {
