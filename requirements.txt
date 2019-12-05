@@ -1,4 +1,4 @@
-Django == 2.2.5
+Django == 2.2.8
 PyYAML == 5.1.2
 requests == 2.18.4
 eventlet == 0.25.1
